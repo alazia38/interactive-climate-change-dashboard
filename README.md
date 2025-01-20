@@ -8,7 +8,7 @@ Clone the repository and navigate into the project directory:
 
 ```sh
 git clone https://github.com/alazia38/interactive-climate-change-dashboard.git
-cd vis-vue-d3
+cd interactive-climate-change-dashboard
 ```
 
 ### Install project dependencies:
